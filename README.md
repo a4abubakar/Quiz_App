@@ -1,4 +1,4 @@
-This project has [LIVE DEMO](https://a4abubakar.github.io/quiz-app).
+This project has [LIVE DEMO](https://a4abubakar.github.io/Quiz_App).
 
 ## Available Scripts
 
