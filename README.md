@@ -1,8 +1,4 @@
-This project has [LIVE DEMO](https://hamzaalam.github.io/react-quiz-app).
-
-![react-quiz-app1](public/react-quiz-app1.png)
-![react-quiz-app2](public/react-quiz-app2.png)
-![react-quiz-app3](public/react-quiz-app3.png)
+This project has [LIVE DEMO](https://a4abubakar.github.io/quiz-app).
 
 ## Available Scripts
 
